@@ -291,83 +291,12 @@ class _SideMenuState extends State<SideMenu> {
                 ],
               ),
             ),
-            // InkWell(
-            //   onTap: () {
-            //
-            //   },
-            //   child: SvgPicture.asset(
-            //     "assets/svg/edit_icon.svg",
-            //     height: 22,
-            //     width: 22,
-            //   ),
-            // )
+
           ],
         ),
       ),
 
-      // SizedBox(
-      //   height: 10,
-      // ),
-      //
-      // CustomContainer(
-      //   borderRadius: 10,
-      //   borderColor: Constants.grey,
-      //   child: Padding(
-      //     padding: const EdgeInsets.all(12.0),
-      //     child: Column(
-      //       children: [
-      //         Row(
-      //           mainAxisAlignment: MainAxisAlignment.spaceBetween,
-      //           children: const [
-      //             Text(
-      //               "Complete your profile",
-      //               style: TextStyle(
-      //                   fontSize: 12,
-      //                   color: Constants.black
-      //               ),
-      //             ),
-      //
-      //             Text(
-      //               "30% Complete",
-      //               style: TextStyle(
-      //                   fontSize: 12,
-      //                   color: Constants.accentColor
-      //               ),
-      //             )
-      //           ],
-      //         ),
-      //
-      //         const SizedBox(
-      //           height: 10,
-      //         ),
-      //
-      //         Stack(
-      //           children: [
-      //             CustomContainer(
-      //               borderRadius: 10,
-      //               padding: 0,
-      //               paddingEdge: EdgeInsets.zero,
-      //               margin: EdgeInsets.zero,
-      //               height: 5,
-      //               width: MediaQuery.of(context).size.width*0.6,
-      //               backgroundColor: Constants.fourthColor,
-      //             ),
-      //
-      //             CustomContainer(
-      //               borderRadius: 10,
-      //               padding: 0,
-      //               paddingEdge: EdgeInsets.zero,
-      //               margin: EdgeInsets.zero,
-      //               height: 5,
-      //               width: MediaQuery.of(context).size.width*0.6*0.3,
-      //               backgroundColor: Constants.secondaryColor,
-      //             )
-      //           ],
-      //         )
-      //       ],
-      //     ),
-      //   ),
-      // )
+
     ]);
   }
 }
