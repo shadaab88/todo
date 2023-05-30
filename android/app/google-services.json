@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463492445306",
+    "project_id": "practice-1a7a8",
+    "storage_bucket": "practice-1a7a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463492445306:android:71bf7730902421e8a237c3",
+        "android_client_info": {
+          "package_name": "com.shadaab.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463492445306-gcjushdb5smo78b6ec6ppeqkr0iram9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzhxCExeVhyMQry5qG5DB1xmQpSB840Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463492445306-gcjushdb5smo78b6ec6ppeqkr0iram9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
